@@ -1,0 +1,16 @@
+C:\Users\miram\source\repos\3ITC\Pisemka\Pisemka\bin\Debug\net7.0-windows\Pisemka.exe
+C:\Users\miram\source\repos\3ITC\Pisemka\Pisemka\bin\Debug\net7.0-windows\Pisemka.deps.json
+C:\Users\miram\source\repos\3ITC\Pisemka\Pisemka\bin\Debug\net7.0-windows\Pisemka.runtimeconfig.json
+C:\Users\miram\source\repos\3ITC\Pisemka\Pisemka\bin\Debug\net7.0-windows\Pisemka.dll
+C:\Users\miram\source\repos\3ITC\Pisemka\Pisemka\bin\Debug\net7.0-windows\Pisemka.pdb
+C:\Users\miram\source\repos\3ITC\Pisemka\Pisemka\obj\Debug\net7.0-windows\Pisemka.Form1.resources
+C:\Users\miram\source\repos\3ITC\Pisemka\Pisemka\obj\Debug\net7.0-windows\Pisemka.csproj.GenerateResource.cache
+C:\Users\miram\source\repos\3ITC\Pisemka\Pisemka\obj\Debug\net7.0-windows\Pisemka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miram\source\repos\3ITC\Pisemka\Pisemka\obj\Debug\net7.0-windows\Pisemka.AssemblyInfoInputs.cache
+C:\Users\miram\source\repos\3ITC\Pisemka\Pisemka\obj\Debug\net7.0-windows\Pisemka.AssemblyInfo.cs
+C:\Users\miram\source\repos\3ITC\Pisemka\Pisemka\obj\Debug\net7.0-windows\Pisemka.csproj.CoreCompileInputs.cache
+C:\Users\miram\source\repos\3ITC\Pisemka\Pisemka\obj\Debug\net7.0-windows\Pisemka.dll
+C:\Users\miram\source\repos\3ITC\Pisemka\Pisemka\obj\Debug\net7.0-windows\refint\Pisemka.dll
+C:\Users\miram\source\repos\3ITC\Pisemka\Pisemka\obj\Debug\net7.0-windows\Pisemka.pdb
+C:\Users\miram\source\repos\3ITC\Pisemka\Pisemka\obj\Debug\net7.0-windows\Pisemka.genruntimeconfig.cache
+C:\Users\miram\source\repos\3ITC\Pisemka\Pisemka\obj\Debug\net7.0-windows\ref\Pisemka.dll
