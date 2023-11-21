@@ -1,0 +1,14 @@
+C:\Users\miram\OneDrive\Dokumenty\GitHub\3ITC_23-24_PVA\SingletonKnihovna\SingletonKnihovna\bin\Debug\net7.0\SingletonKnihovna.exe
+C:\Users\miram\OneDrive\Dokumenty\GitHub\3ITC_23-24_PVA\SingletonKnihovna\SingletonKnihovna\bin\Debug\net7.0\SingletonKnihovna.deps.json
+C:\Users\miram\OneDrive\Dokumenty\GitHub\3ITC_23-24_PVA\SingletonKnihovna\SingletonKnihovna\bin\Debug\net7.0\SingletonKnihovna.runtimeconfig.json
+C:\Users\miram\OneDrive\Dokumenty\GitHub\3ITC_23-24_PVA\SingletonKnihovna\SingletonKnihovna\bin\Debug\net7.0\SingletonKnihovna.dll
+C:\Users\miram\OneDrive\Dokumenty\GitHub\3ITC_23-24_PVA\SingletonKnihovna\SingletonKnihovna\bin\Debug\net7.0\SingletonKnihovna.pdb
+C:\Users\miram\OneDrive\Dokumenty\GitHub\3ITC_23-24_PVA\SingletonKnihovna\SingletonKnihovna\obj\Debug\net7.0\SingletonKnihovna.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miram\OneDrive\Dokumenty\GitHub\3ITC_23-24_PVA\SingletonKnihovna\SingletonKnihovna\obj\Debug\net7.0\SingletonKnihovna.AssemblyInfoInputs.cache
+C:\Users\miram\OneDrive\Dokumenty\GitHub\3ITC_23-24_PVA\SingletonKnihovna\SingletonKnihovna\obj\Debug\net7.0\SingletonKnihovna.AssemblyInfo.cs
+C:\Users\miram\OneDrive\Dokumenty\GitHub\3ITC_23-24_PVA\SingletonKnihovna\SingletonKnihovna\obj\Debug\net7.0\SingletonKnihovna.csproj.CoreCompileInputs.cache
+C:\Users\miram\OneDrive\Dokumenty\GitHub\3ITC_23-24_PVA\SingletonKnihovna\SingletonKnihovna\obj\Debug\net7.0\SingletonKnihovna.dll
+C:\Users\miram\OneDrive\Dokumenty\GitHub\3ITC_23-24_PVA\SingletonKnihovna\SingletonKnihovna\obj\Debug\net7.0\refint\SingletonKnihovna.dll
+C:\Users\miram\OneDrive\Dokumenty\GitHub\3ITC_23-24_PVA\SingletonKnihovna\SingletonKnihovna\obj\Debug\net7.0\SingletonKnihovna.pdb
+C:\Users\miram\OneDrive\Dokumenty\GitHub\3ITC_23-24_PVA\SingletonKnihovna\SingletonKnihovna\obj\Debug\net7.0\SingletonKnihovna.genruntimeconfig.cache
+C:\Users\miram\OneDrive\Dokumenty\GitHub\3ITC_23-24_PVA\SingletonKnihovna\SingletonKnihovna\obj\Debug\net7.0\ref\SingletonKnihovna.dll
