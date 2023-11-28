@@ -8,7 +8,7 @@ namespace SingletonKnihovna
 {
     internal class Knihovna
     {
-        public List<Kniha> seznamKnih { get; set; }
+        List<Kniha> seznamKnih { get; set; }
         public string nazevKnihovny { get; set; }
 
         public Knihovna(string nK)
@@ -19,6 +19,14 @@ namespace SingletonKnihovna
 
         public IReadOnlyList<Kniha> vratSeznamKnih() {
             return seznamKnih;
+        }
+        public void PridejKnihu(Kniha kniha)
+        {
+            seznamKnih.Add(kniha);
+        }
+        public void OdeberKnihu(Kniha kniha)
+        {
+            seznamKnih.Remove(kniha);
         }
     }
 }

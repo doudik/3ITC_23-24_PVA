@@ -8,8 +8,8 @@ namespace SingletonKnihovna
 {
     internal class Kniha
     {
-        string nazevKnihy { get; set; }
-        string autorKnihy { get; set; }
+        public string nazevKnihy { get; private set; }
+        public string autorKnihy { get; private set; }
 
         public Kniha(string nK, string nA) { 
             nazevKnihy = nK;

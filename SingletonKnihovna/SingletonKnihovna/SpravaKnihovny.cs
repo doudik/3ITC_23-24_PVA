@@ -9,19 +9,37 @@ namespace SingletonKnihovna
     internal class SpravaKnihovny
     {
         private static SpravaKnihovny spravce = new SpravaKnihovny("Josef");
-        static string name { get { return name; } set { name = value; } }
-        List<Knihovna> spravovaneKnihovny = new List<Knihovna>();
+        string name;
+        public string Name { get { return name; } }
+        public List<Knihovna> spravovaneKnihovny { get; private set; } = new List<Knihovna>();
 
         private SpravaKnihovny(string name)
         {
-            SpravaKnihovny.name = name;
+            this.name = name;
         }
         public static SpravaKnihovny vratSpravce() {
             return spravce;
         }
-        void SpravujNovouKnihovnu()
-        public void PridejKnihu(Kniha kniha) { 
-            
+
+        public void PridejKnihu(Kniha kniha, Knihovna knihovna) {
+            if (spravovaneKnihovny.Contains(knihovna))
+            {
+                knihovna.PridejKnihu(kniha);
+            }
+            else { 
+                Console.WriteLine("Knihovna není spravována");
+            }
+        }
+        public void OdeberKnihu(Kniha kniha, Knihovna knihovna)
+        {
+            if (spravovaneKnihovny.Contains(knihovna))
+            {
+                knihovna.OdeberKnihu(kniha);
+            }
+            else
+            {
+                Console.WriteLine("Knihovna není spravována");
+            }
         }
 
     }

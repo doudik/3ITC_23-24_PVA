@@ -4,7 +4,18 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(SpravaKnihovny.vratSpravce.name);
+            Knihovna knihovna = new Knihovna("SPSUL knihovna");
+            SpravaKnihovny.vratSpravce().spravovaneKnihovny.Add(knihovna);
+            Kniha harryPotter = new Kniha("Harry Potter", "J.K.Rowling");
+            SpravaKnihovny.vratSpravce().PridejKnihu(harryPotter, knihovna);
+            
+
+            Console.WriteLine($"O knihovnu {knihovna.nazevKnihovny} se stará správce {SpravaKnihovny.vratSpravce().Name}");
+
+            foreach (var item in knihovna.vratSeznamKnih())
+            {
+                Console.WriteLine($"Kniha: {item.nazevKnihy} | autor: {item.autorKnihy}");
+            }
         }
         /*
          * Knihovna
@@ -16,7 +27,7 @@
          *  AktualizujKnihu(Kniha kniha)
          *  
          * Class Knihovna
-         *  
+         *      
          *  string nazevKnihovny
          *  List<Kniha> seznamKnih
          *  
