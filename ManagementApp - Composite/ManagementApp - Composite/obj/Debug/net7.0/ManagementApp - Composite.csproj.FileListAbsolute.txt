@@ -1,0 +1,14 @@
+C:\Users\miram\OneDrive\Dokumenty\GitHub\3ITC_23-24_PVA\ManagementApp - Composite\ManagementApp - Composite\bin\Debug\net7.0\ManagementApp - Composite.exe
+C:\Users\miram\OneDrive\Dokumenty\GitHub\3ITC_23-24_PVA\ManagementApp - Composite\ManagementApp - Composite\bin\Debug\net7.0\ManagementApp - Composite.deps.json
+C:\Users\miram\OneDrive\Dokumenty\GitHub\3ITC_23-24_PVA\ManagementApp - Composite\ManagementApp - Composite\bin\Debug\net7.0\ManagementApp - Composite.runtimeconfig.json
+C:\Users\miram\OneDrive\Dokumenty\GitHub\3ITC_23-24_PVA\ManagementApp - Composite\ManagementApp - Composite\bin\Debug\net7.0\ManagementApp - Composite.dll
+C:\Users\miram\OneDrive\Dokumenty\GitHub\3ITC_23-24_PVA\ManagementApp - Composite\ManagementApp - Composite\bin\Debug\net7.0\ManagementApp - Composite.pdb
+C:\Users\miram\OneDrive\Dokumenty\GitHub\3ITC_23-24_PVA\ManagementApp - Composite\ManagementApp - Composite\obj\Debug\net7.0\ManagementApp - Composite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miram\OneDrive\Dokumenty\GitHub\3ITC_23-24_PVA\ManagementApp - Composite\ManagementApp - Composite\obj\Debug\net7.0\ManagementApp - Composite.AssemblyInfoInputs.cache
+C:\Users\miram\OneDrive\Dokumenty\GitHub\3ITC_23-24_PVA\ManagementApp - Composite\ManagementApp - Composite\obj\Debug\net7.0\ManagementApp - Composite.AssemblyInfo.cs
+C:\Users\miram\OneDrive\Dokumenty\GitHub\3ITC_23-24_PVA\ManagementApp - Composite\ManagementApp - Composite\obj\Debug\net7.0\ManagementApp - Composite.csproj.CoreCompileInputs.cache
+C:\Users\miram\OneDrive\Dokumenty\GitHub\3ITC_23-24_PVA\ManagementApp - Composite\ManagementApp - Composite\obj\Debug\net7.0\ManagementApp - Composite.dll
+C:\Users\miram\OneDrive\Dokumenty\GitHub\3ITC_23-24_PVA\ManagementApp - Composite\ManagementApp - Composite\obj\Debug\net7.0\refint\ManagementApp - Composite.dll
+C:\Users\miram\OneDrive\Dokumenty\GitHub\3ITC_23-24_PVA\ManagementApp - Composite\ManagementApp - Composite\obj\Debug\net7.0\ManagementApp - Composite.pdb
+C:\Users\miram\OneDrive\Dokumenty\GitHub\3ITC_23-24_PVA\ManagementApp - Composite\ManagementApp - Composite\obj\Debug\net7.0\ManagementApp - Composite.genruntimeconfig.cache
+C:\Users\miram\OneDrive\Dokumenty\GitHub\3ITC_23-24_PVA\ManagementApp - Composite\ManagementApp - Composite\obj\Debug\net7.0\ref\ManagementApp - Composite.dll
