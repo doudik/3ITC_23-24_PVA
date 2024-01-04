@@ -1,0 +1,14 @@
+C:\Users\miram\OneDrive\Dokumenty\GitHub\3ITC_23-24_PVA\BeatGenerator\BeatGenerator\bin\Debug\net7.0\BeatGenerator.exe
+C:\Users\miram\OneDrive\Dokumenty\GitHub\3ITC_23-24_PVA\BeatGenerator\BeatGenerator\bin\Debug\net7.0\BeatGenerator.deps.json
+C:\Users\miram\OneDrive\Dokumenty\GitHub\3ITC_23-24_PVA\BeatGenerator\BeatGenerator\bin\Debug\net7.0\BeatGenerator.runtimeconfig.json
+C:\Users\miram\OneDrive\Dokumenty\GitHub\3ITC_23-24_PVA\BeatGenerator\BeatGenerator\bin\Debug\net7.0\BeatGenerator.dll
+C:\Users\miram\OneDrive\Dokumenty\GitHub\3ITC_23-24_PVA\BeatGenerator\BeatGenerator\bin\Debug\net7.0\BeatGenerator.pdb
+C:\Users\miram\OneDrive\Dokumenty\GitHub\3ITC_23-24_PVA\BeatGenerator\BeatGenerator\obj\Debug\net7.0\BeatGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miram\OneDrive\Dokumenty\GitHub\3ITC_23-24_PVA\BeatGenerator\BeatGenerator\obj\Debug\net7.0\BeatGenerator.AssemblyInfoInputs.cache
+C:\Users\miram\OneDrive\Dokumenty\GitHub\3ITC_23-24_PVA\BeatGenerator\BeatGenerator\obj\Debug\net7.0\BeatGenerator.AssemblyInfo.cs
+C:\Users\miram\OneDrive\Dokumenty\GitHub\3ITC_23-24_PVA\BeatGenerator\BeatGenerator\obj\Debug\net7.0\BeatGenerator.csproj.CoreCompileInputs.cache
+C:\Users\miram\OneDrive\Dokumenty\GitHub\3ITC_23-24_PVA\BeatGenerator\BeatGenerator\obj\Debug\net7.0\BeatGenerator.dll
+C:\Users\miram\OneDrive\Dokumenty\GitHub\3ITC_23-24_PVA\BeatGenerator\BeatGenerator\obj\Debug\net7.0\refint\BeatGenerator.dll
+C:\Users\miram\OneDrive\Dokumenty\GitHub\3ITC_23-24_PVA\BeatGenerator\BeatGenerator\obj\Debug\net7.0\BeatGenerator.pdb
+C:\Users\miram\OneDrive\Dokumenty\GitHub\3ITC_23-24_PVA\BeatGenerator\BeatGenerator\obj\Debug\net7.0\BeatGenerator.genruntimeconfig.cache
+C:\Users\miram\OneDrive\Dokumenty\GitHub\3ITC_23-24_PVA\BeatGenerator\BeatGenerator\obj\Debug\net7.0\ref\BeatGenerator.dll
