@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "SpravaZamestnancu_Singleton_Dedicnost/1.0.0": {
+        "runtime": {
+          "SpravaZamestnancu_Singleton_Dedicnost.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SpravaZamestnancu_Singleton_Dedicnost/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
