@@ -1,0 +1,16 @@
+C:\Users\miram\OneDrive\Dokumenty\GitHub\3ITC_23-24_PVA\Uvod_Reflexe\Uvod_Reflexe\bin\Debug\net7.0-windows\Uvod_Reflexe.exe
+C:\Users\miram\OneDrive\Dokumenty\GitHub\3ITC_23-24_PVA\Uvod_Reflexe\Uvod_Reflexe\bin\Debug\net7.0-windows\Uvod_Reflexe.deps.json
+C:\Users\miram\OneDrive\Dokumenty\GitHub\3ITC_23-24_PVA\Uvod_Reflexe\Uvod_Reflexe\bin\Debug\net7.0-windows\Uvod_Reflexe.runtimeconfig.json
+C:\Users\miram\OneDrive\Dokumenty\GitHub\3ITC_23-24_PVA\Uvod_Reflexe\Uvod_Reflexe\bin\Debug\net7.0-windows\Uvod_Reflexe.dll
+C:\Users\miram\OneDrive\Dokumenty\GitHub\3ITC_23-24_PVA\Uvod_Reflexe\Uvod_Reflexe\bin\Debug\net7.0-windows\Uvod_Reflexe.pdb
+C:\Users\miram\OneDrive\Dokumenty\GitHub\3ITC_23-24_PVA\Uvod_Reflexe\Uvod_Reflexe\obj\Debug\net7.0-windows\Uvod_Reflexe.Form1.resources
+C:\Users\miram\OneDrive\Dokumenty\GitHub\3ITC_23-24_PVA\Uvod_Reflexe\Uvod_Reflexe\obj\Debug\net7.0-windows\Uvod_Reflexe.csproj.GenerateResource.cache
+C:\Users\miram\OneDrive\Dokumenty\GitHub\3ITC_23-24_PVA\Uvod_Reflexe\Uvod_Reflexe\obj\Debug\net7.0-windows\Uvod_Reflexe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miram\OneDrive\Dokumenty\GitHub\3ITC_23-24_PVA\Uvod_Reflexe\Uvod_Reflexe\obj\Debug\net7.0-windows\Uvod_Reflexe.AssemblyInfoInputs.cache
+C:\Users\miram\OneDrive\Dokumenty\GitHub\3ITC_23-24_PVA\Uvod_Reflexe\Uvod_Reflexe\obj\Debug\net7.0-windows\Uvod_Reflexe.AssemblyInfo.cs
+C:\Users\miram\OneDrive\Dokumenty\GitHub\3ITC_23-24_PVA\Uvod_Reflexe\Uvod_Reflexe\obj\Debug\net7.0-windows\Uvod_Reflexe.csproj.CoreCompileInputs.cache
+C:\Users\miram\OneDrive\Dokumenty\GitHub\3ITC_23-24_PVA\Uvod_Reflexe\Uvod_Reflexe\obj\Debug\net7.0-windows\Uvod_Reflexe.dll
+C:\Users\miram\OneDrive\Dokumenty\GitHub\3ITC_23-24_PVA\Uvod_Reflexe\Uvod_Reflexe\obj\Debug\net7.0-windows\refint\Uvod_Reflexe.dll
+C:\Users\miram\OneDrive\Dokumenty\GitHub\3ITC_23-24_PVA\Uvod_Reflexe\Uvod_Reflexe\obj\Debug\net7.0-windows\Uvod_Reflexe.pdb
+C:\Users\miram\OneDrive\Dokumenty\GitHub\3ITC_23-24_PVA\Uvod_Reflexe\Uvod_Reflexe\obj\Debug\net7.0-windows\Uvod_Reflexe.genruntimeconfig.cache
+C:\Users\miram\OneDrive\Dokumenty\GitHub\3ITC_23-24_PVA\Uvod_Reflexe\Uvod_Reflexe\obj\Debug\net7.0-windows\ref\Uvod_Reflexe.dll

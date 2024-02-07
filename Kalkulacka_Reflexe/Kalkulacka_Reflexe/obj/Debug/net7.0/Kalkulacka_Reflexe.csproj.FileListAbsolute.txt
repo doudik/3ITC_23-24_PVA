@@ -1,0 +1,14 @@
+C:\Users\miram\OneDrive\Dokumenty\GitHub\3ITC_23-24_PVA\Kalkulacka_Reflexe\Kalkulacka_Reflexe\bin\Debug\net7.0\Kalkulacka_Reflexe.exe
+C:\Users\miram\OneDrive\Dokumenty\GitHub\3ITC_23-24_PVA\Kalkulacka_Reflexe\Kalkulacka_Reflexe\bin\Debug\net7.0\Kalkulacka_Reflexe.deps.json
+C:\Users\miram\OneDrive\Dokumenty\GitHub\3ITC_23-24_PVA\Kalkulacka_Reflexe\Kalkulacka_Reflexe\bin\Debug\net7.0\Kalkulacka_Reflexe.runtimeconfig.json
+C:\Users\miram\OneDrive\Dokumenty\GitHub\3ITC_23-24_PVA\Kalkulacka_Reflexe\Kalkulacka_Reflexe\bin\Debug\net7.0\Kalkulacka_Reflexe.dll
+C:\Users\miram\OneDrive\Dokumenty\GitHub\3ITC_23-24_PVA\Kalkulacka_Reflexe\Kalkulacka_Reflexe\bin\Debug\net7.0\Kalkulacka_Reflexe.pdb
+C:\Users\miram\OneDrive\Dokumenty\GitHub\3ITC_23-24_PVA\Kalkulacka_Reflexe\Kalkulacka_Reflexe\obj\Debug\net7.0\Kalkulacka_Reflexe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miram\OneDrive\Dokumenty\GitHub\3ITC_23-24_PVA\Kalkulacka_Reflexe\Kalkulacka_Reflexe\obj\Debug\net7.0\Kalkulacka_Reflexe.AssemblyInfoInputs.cache
+C:\Users\miram\OneDrive\Dokumenty\GitHub\3ITC_23-24_PVA\Kalkulacka_Reflexe\Kalkulacka_Reflexe\obj\Debug\net7.0\Kalkulacka_Reflexe.AssemblyInfo.cs
+C:\Users\miram\OneDrive\Dokumenty\GitHub\3ITC_23-24_PVA\Kalkulacka_Reflexe\Kalkulacka_Reflexe\obj\Debug\net7.0\Kalkulacka_Reflexe.csproj.CoreCompileInputs.cache
+C:\Users\miram\OneDrive\Dokumenty\GitHub\3ITC_23-24_PVA\Kalkulacka_Reflexe\Kalkulacka_Reflexe\obj\Debug\net7.0\Kalkulacka_Reflexe.dll
+C:\Users\miram\OneDrive\Dokumenty\GitHub\3ITC_23-24_PVA\Kalkulacka_Reflexe\Kalkulacka_Reflexe\obj\Debug\net7.0\refint\Kalkulacka_Reflexe.dll
+C:\Users\miram\OneDrive\Dokumenty\GitHub\3ITC_23-24_PVA\Kalkulacka_Reflexe\Kalkulacka_Reflexe\obj\Debug\net7.0\Kalkulacka_Reflexe.pdb
+C:\Users\miram\OneDrive\Dokumenty\GitHub\3ITC_23-24_PVA\Kalkulacka_Reflexe\Kalkulacka_Reflexe\obj\Debug\net7.0\Kalkulacka_Reflexe.genruntimeconfig.cache
+C:\Users\miram\OneDrive\Dokumenty\GitHub\3ITC_23-24_PVA\Kalkulacka_Reflexe\Kalkulacka_Reflexe\obj\Debug\net7.0\ref\Kalkulacka_Reflexe.dll
