@@ -1,0 +1,14 @@
+C:\Users\miram\source\repos\GameManager_3ITB\GameManager_3ITB\bin\Debug\net8.0\GameManager_3ITB.exe
+C:\Users\miram\source\repos\GameManager_3ITB\GameManager_3ITB\bin\Debug\net8.0\GameManager_3ITB.deps.json
+C:\Users\miram\source\repos\GameManager_3ITB\GameManager_3ITB\bin\Debug\net8.0\GameManager_3ITB.runtimeconfig.json
+C:\Users\miram\source\repos\GameManager_3ITB\GameManager_3ITB\bin\Debug\net8.0\GameManager_3ITB.dll
+C:\Users\miram\source\repos\GameManager_3ITB\GameManager_3ITB\bin\Debug\net8.0\GameManager_3ITB.pdb
+C:\Users\miram\source\repos\GameManager_3ITB\GameManager_3ITB\obj\Debug\net8.0\GameManager_3ITB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miram\source\repos\GameManager_3ITB\GameManager_3ITB\obj\Debug\net8.0\GameManager_3ITB.AssemblyInfoInputs.cache
+C:\Users\miram\source\repos\GameManager_3ITB\GameManager_3ITB\obj\Debug\net8.0\GameManager_3ITB.AssemblyInfo.cs
+C:\Users\miram\source\repos\GameManager_3ITB\GameManager_3ITB\obj\Debug\net8.0\GameManager_3ITB.csproj.CoreCompileInputs.cache
+C:\Users\miram\source\repos\GameManager_3ITB\GameManager_3ITB\obj\Debug\net8.0\GameManager_3ITB.dll
+C:\Users\miram\source\repos\GameManager_3ITB\GameManager_3ITB\obj\Debug\net8.0\refint\GameManager_3ITB.dll
+C:\Users\miram\source\repos\GameManager_3ITB\GameManager_3ITB\obj\Debug\net8.0\GameManager_3ITB.pdb
+C:\Users\miram\source\repos\GameManager_3ITB\GameManager_3ITB\obj\Debug\net8.0\GameManager_3ITB.genruntimeconfig.cache
+C:\Users\miram\source\repos\GameManager_3ITB\GameManager_3ITB\obj\Debug\net8.0\ref\GameManager_3ITB.dll

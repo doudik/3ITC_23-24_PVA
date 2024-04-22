@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\miram\\source\\repos\\GameManager_3ITB\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{26FE9468-5329-4754-B941-00054B4E79C3}|GameManager_3ITB\\GameManager_3ITB.csproj|c:\\users\\miram\\source\\repos\\gamemanager_3itb\\gamemanager_3itb\\playingstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26FE9468-5329-4754-B941-00054B4E79C3}|GameManager_3ITB\\GameManager_3ITB.csproj|solutionrelative:gamemanager_3itb\\playingstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26FE9468-5329-4754-B941-00054B4E79C3}|GameManager_3ITB\\GameManager_3ITB.csproj|c:\\users\\miram\\source\\repos\\gamemanager_3itb\\gamemanager_3itb\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26FE9468-5329-4754-B941-00054B4E79C3}|GameManager_3ITB\\GameManager_3ITB.csproj|solutionrelative:gamemanager_3itb\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26FE9468-5329-4754-B941-00054B4E79C3}|GameManager_3ITB\\GameManager_3ITB.csproj|c:\\users\\miram\\source\\repos\\gamemanager_3itb\\gamemanager_3itb\\igamestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26FE9468-5329-4754-B941-00054B4E79C3}|GameManager_3ITB\\GameManager_3ITB.csproj|solutionrelative:gamemanager_3itb\\igamestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26FE9468-5329-4754-B941-00054B4E79C3}|GameManager_3ITB\\GameManager_3ITB.csproj|c:\\users\\miram\\source\\repos\\gamemanager_3itb\\gamemanager_3itb\\gamestatemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26FE9468-5329-4754-B941-00054B4E79C3}|GameManager_3ITB\\GameManager_3ITB.csproj|solutionrelative:gamemanager_3itb\\gamestatemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26FE9468-5329-4754-B941-00054B4E79C3}|GameManager_3ITB\\GameManager_3ITB.csproj|c:\\users\\miram\\source\\repos\\gamemanager_3itb\\gamemanager_3itb\\mainmenustate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26FE9468-5329-4754-B941-00054B4E79C3}|GameManager_3ITB\\GameManager_3ITB.csproj|solutionrelative:gamemanager_3itb\\mainmenustate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26FE9468-5329-4754-B941-00054B4E79C3}|GameManager_3ITB\\GameManager_3ITB.csproj|c:\\users\\miram\\source\\repos\\gamemanager_3itb\\gamemanager_3itb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26FE9468-5329-4754-B941-00054B4E79C3}|GameManager_3ITB\\GameManager_3ITB.csproj|solutionrelative:gamemanager_3itb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Users\\miram\\source\\repos\\GameManager_3ITB\\GameManager_3ITB\\Game.cs",
+              "RelativeDocumentMoniker": "GameManager_3ITB\\Game.cs",
+              "ToolTip": "C:\\Users\\miram\\source\\repos\\GameManager_3ITB\\GameManager_3ITB\\Game.cs",
+              "RelativeToolTip": "GameManager_3ITB\\Game.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T07:27:50.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayingState.cs",
+              "DocumentMoniker": "C:\\Users\\miram\\source\\repos\\GameManager_3ITB\\GameManager_3ITB\\PlayingState.cs",
+              "RelativeDocumentMoniker": "GameManager_3ITB\\PlayingState.cs",
+              "ToolTip": "C:\\Users\\miram\\source\\repos\\GameManager_3ITB\\GameManager_3ITB\\PlayingState.cs",
+              "RelativeToolTip": "GameManager_3ITB\\PlayingState.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAuwDcAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T07:27:06.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainMenuState.cs",
+              "DocumentMoniker": "C:\\Users\\miram\\source\\repos\\GameManager_3ITB\\GameManager_3ITB\\MainMenuState.cs",
+              "RelativeDocumentMoniker": "GameManager_3ITB\\MainMenuState.cs",
+              "ToolTip": "C:\\Users\\miram\\source\\repos\\GameManager_3ITB\\GameManager_3ITB\\MainMenuState.cs",
+              "RelativeToolTip": "GameManager_3ITB\\MainMenuState.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T07:26:23.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GameStateManager.cs",
+              "DocumentMoniker": "C:\\Users\\miram\\source\\repos\\GameManager_3ITB\\GameManager_3ITB\\GameStateManager.cs",
+              "RelativeDocumentMoniker": "GameManager_3ITB\\GameStateManager.cs",
+              "ToolTip": "C:\\Users\\miram\\source\\repos\\GameManager_3ITB\\GameManager_3ITB\\GameStateManager.cs",
+              "RelativeToolTip": "GameManager_3ITB\\GameStateManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T07:25:35.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IGameState.cs",
+              "DocumentMoniker": "C:\\Users\\miram\\source\\repos\\GameManager_3ITB\\GameManager_3ITB\\IGameState.cs",
+              "RelativeDocumentMoniker": "GameManager_3ITB\\IGameState.cs",
+              "ToolTip": "C:\\Users\\miram\\source\\repos\\GameManager_3ITB\\GameManager_3ITB\\IGameState.cs",
+              "RelativeToolTip": "GameManager_3ITB\\IGameState.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T07:25:03.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\miram\\source\\repos\\GameManager_3ITB\\GameManager_3ITB\\Program.cs",
+              "RelativeDocumentMoniker": "GameManager_3ITB\\Program.cs",
+              "ToolTip": "C:\\Users\\miram\\source\\repos\\GameManager_3ITB\\GameManager_3ITB\\Program.cs",
+              "RelativeToolTip": "GameManager_3ITB\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T07:24:00.807Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
